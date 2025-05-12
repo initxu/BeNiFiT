@@ -1,0 +1,2 @@
+Predict and analyze this NFT's trading performance for April 2025 and provide detailed analysis. Below is the historical trading data for the NFT from $[Historical Start]$ to $[Historical End]$.
+Historical Trading Data: $[Historical Trading Data]$

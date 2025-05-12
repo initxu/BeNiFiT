@@ -1,0 +1,2 @@
+You are a financial analyst specializing in NFTs. Predict and analyze this NFT's trading performance for April 2025 and provide detailed analysis. Think through your analysis step by step. Below is the historical trading data for the NFT from $[Historical Start]$ to $[Historical End]$.
+Historical Trading Data: $[Historical Trading Data]$

@@ -1,0 +1,264 @@
+{
+    "baseline_zeroshot_gpt-4o_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4o-2024-08-06",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_gpt-4o_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4o-2024-08-06",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_gpt-4o_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4o-2024-08-06",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_gpt-4o_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4o-2024-08-06",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    },
+
+
+
+
+    "baseline_zeroshot_gpt-4o-mini_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4o-mini-2024-07-18",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_gpt-4o-mini_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4o-mini-2024-07-18",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_gpt-4o-mini_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4o-mini-2024-07-18",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_gpt-4o-mini_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4o-mini-2024-07-18",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    },
+
+
+    "baseline_zeroshot_gpt-3.5_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-3.5-turbo-0125",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_gpt-3.5_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-3.5-turbo-0125",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_gpt-3.5_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-3.5-turbo-0125",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_gpt-3.5_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-3.5-turbo-0125",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    },
+
+
+    "baseline_zeroshot_gpt-4.1_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4.1-2025-04-14",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_gpt-4.1_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4.1-2025-04-14",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_gpt-4.1_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4.1-2025-04-14",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_gpt-4.1_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "gpt-4.1-2025-04-14",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    },
+
+    "baseline_zeroshot_claude-3-7-sonnet_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "claude-3-7-sonnet-20250219",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_claude-3-7-sonnet_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "claude-3-7-sonnet-20250219",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_claude-3-7-sonnet_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "claude-3-7-sonnet-20250219",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_claude-3-7-sonnet_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "claude-3-7-sonnet-20250219",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    },
+
+
+
+    "baseline_zeroshot_gemini-1.5-flash_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "gemini-1.5-flash-latest",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_gemini-1.5-flash_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "gemini-1.5-flash-latest",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_gemini-1.5-flash_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "gemini-1.5-flash-latest",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_gemini-1.5-flash_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "gemini-1.5-flash-latest",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    },
+
+
+    "baseline_zeroshot_deepseek-r1_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "deepseek-r1",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_deepseek-r1_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "deepseek-r1",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_deepseek-r1_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "deepseek-r1",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_deepseek-r1_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "deepseek-r1",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    },
+
+
+    "baseline_zeroshot_qwen2.5-3b_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "Qwen/Qwen2.5-3B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_qwen2.5-3b_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "Qwen/Qwen2.5-3B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_qwen2.5-3b_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "Qwen/Qwen2.5-3B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_qwen2.5-3b_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "Qwen/Qwen2.5-3B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    },
+
+    "baseline_zeroshot_qwen2.5-7b_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_qwen2.5-7b_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_qwen2.5-7b_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_qwen2.5-7b_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    },
+
+
+
+    "baseline_zeroshot_llama3.1-8b_historical_all":{
+        "method": "baseline_zeroshot",
+        "model": "meta-llama/Llama-3.1-8B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "all"
+    },
+    "baseline_zeroshot_llama3.1-8b_historical_1m":{
+        "method": "baseline_zeroshot",
+        "model": "meta-llama/Llama-3.1-8B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "1m"
+    },
+    "baseline_zeroshot_llama3.1-8b_historical_3m":{
+        "method": "baseline_zeroshot",
+        "model": "meta-llama/Llama-3.1-8B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "3m"
+    },
+    "baseline_zeroshot_llama3.1-8b_historical_6m":{
+        "method": "baseline_zeroshot",
+        "model": "meta-llama/Llama-3.1-8B-Instruct",
+        "collection_slug": "chimpersnft",
+        "nft_historical_period": "6m"
+    }
+
+
+}

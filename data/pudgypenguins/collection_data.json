@@ -1,0 +1,94 @@
+{
+    "collection": "pudgypenguins",
+    "name": "Pudgy Penguins",
+    "description": "Pudgy Penguins is a collection of 8,888 NFT\u2019s, accelerating Web3 innovation through IP utilization and community empowerment. Embodying love, empathy, & compassion, the Pudgy Penguins are a beacon of good vibes & positivity for everyone. Each holder receives exclusive access to experiences, events, IP licensing opportunities and more. Let\u2019s break through the boundaries of Web3 together.\r\n\r\nPudgy Collections:\r\n[Lil Pudgys](https://opensea.io/collection/lilpudgys) | [Pudgy Rods](https://opensea.io/collection/pudgyrods)",
+    "image_url": "https://i.seadn.io/s/raw/files/cdf489fb69fd11886b468c0f7ff1376c.png?w=500&auto=format",
+    "banner_image_url": "https://i.seadn.io/s/primary-drops/0xbd3531da5cf5857e7cfaa92426877b022e612cf8/809912:about:media:a21a43b4-972a-4d72-a651-3bea2c285683.jpeg?w=500&auto=format",
+    "owner": "0xf54c9a0e44a5f5afd27c7ac8a176a843b9114f1d",
+    "safelist_status": "verified",
+    "category": "pfps",
+    "is_disabled": false,
+    "is_nsfw": false,
+    "trait_offers_enabled": true,
+    "collection_offers_enabled": true,
+    "opensea_url": "https://opensea.io/collection/pudgypenguins",
+    "project_url": "https://www.pudgypenguins.com/",
+    "wiki_url": "",
+    "discord_url": "https://discord.gg/pudgypenguins",
+    "telegram_url": "",
+    "twitter_username": "pudgy_penguins",
+    "instagram_username": "pudgypenguins",
+    "contracts": [
+        {
+            "address": "0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+            "chain": "ethereum"
+        }
+    ],
+    "editors": [
+        "0xc489b60e161737c64ac2ee4e85d055cfbf10bad5",
+        "0xf54c9a0e44a5f5afd27c7ac8a176a843b9114f1d"
+    ],
+    "fees": [
+        {
+            "fee": 0.5,
+            "recipient": "0x0000a26b00c1f0df003000390027140000faa719",
+            "required": true
+        },
+        {
+            "fee": 5.0,
+            "recipient": "0x1afa64e9b8e3090f2001f66d9c9a74cde646738a",
+            "required": false
+        }
+    ],
+    "rarity": {
+        "strategy_id": "openrarity",
+        "strategy_version": "0.4.3b0",
+        "calculated_at": "2022-09-21T19:32:05.199285",
+        "max_rank": 8888,
+        "tokens_scored": 8888
+    },
+    "payment_tokens": [
+        {
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "chain": "ethereum",
+            "image": "https://raw.seadn.io/files/ETH.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "1849.500000000000000000"
+        },
+        {
+            "symbol": "DAI",
+            "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "chain": "ethereum",
+            "image": "https://raw.seadn.io/files/DAI.svg",
+            "name": "Dai Stablecoin",
+            "decimals": 18,
+            "eth_price": "0.000540740000000",
+            "usd_price": "1.000000000000000000"
+        },
+        {
+            "symbol": "WETH",
+            "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "chain": "ethereum",
+            "image": "https://raw.seadn.io/files/WETH.svg",
+            "name": "Wrapped Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "1849.690000000000055000"
+        },
+        {
+            "symbol": "USDC",
+            "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "chain": "ethereum",
+            "image": "https://raw.seadn.io/files/USDC.svg",
+            "name": "USD Coin",
+            "decimals": 6,
+            "eth_price": "0.000540650000000",
+            "usd_price": "0.999927000000000000"
+        }
+    ],
+    "total_supply": 8888,
+    "created_date": "2021-07-22"
+}

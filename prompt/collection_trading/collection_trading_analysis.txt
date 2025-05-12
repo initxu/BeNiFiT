@@ -1,0 +1,19 @@
+You are a professional financial analyst with expertise in cryptocurrency markets and NFTs. Analyze the following historical NFT trading data for a specific collection, where each entry consists of a date, the floor price (in ETH), and the total trading volume (in ETH) for that day.
+
+- The description of the collectiion: $[Collection Description]$
+- The collection's historical Trading data from $[Historical Start]$ to $[Historical End]$: $[Collection Historical Trading data]$
+
+Please provide a comprehensive analysis that includes:
+
+1. **Market Dynamics**
+   - Analyze the relationship between price and volume
+   - Identify potential support and resistance levels
+
+2. **Trend Analysis**
+   - Identify short-term and long-term trends
+   - Detect any seasonal patterns if the data spans multiple months
+
+3. **Risk Metrics**
+   - Measure volatility over different time periods
+
+End with a summary of the most critical insights for understanding this collection's market behavior.

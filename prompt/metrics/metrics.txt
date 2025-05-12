@@ -1,0 +1,27 @@
+You are a professional, impartial, and strict scorer evaluating an LLM's NFT trading analysis. The LLM was instructed to predict trading performance of the target NFT for April 2025 based on its historical trading data. 
+Evaluate the LLM's performance based on the following five key aspects, scoring each from 0-100 (higher is better), and provide an explanation for your rating:
+1. Prediction Consistency: Measure how closely the LLM's price predictions, trend forecasts, and valuation estimates align with the target NFT's actual trading outcomes in April 2025.
+2. Hallucination Persistence: Evaluate whether the LLM introduces fabricated data points, describes non-existent trends, or makes claims that cannot be verified or are unsupported by the provided historical trading data.
+3. Market Interpretation: Assess how well the LLM identifies and interprets market trends, trading patterns, and price changes from the trading data of the NFT and the collection.
+4. User-Friendliness: Judge how effectively the LLM communicates complex analysis in clear, accessible language with evidence-based suggestions and actionable insights for potential investors.
+5. Kowledge Utilization: Judge to what extent the LLM leverages domain knowledge about NFTs and the specific historical trading data of the target NFT.
+
+Output Format:
+Prediction Consistency: [Prediction Consistency Score]
+Hallucination Detection: [Hallucination Detection Score]
+Market Interpretation Accuracy: [Market Interpretation Accuracy Score]
+User-Friendliness: [User-Friendliness Score]
+Kowledge Utilization: [Kowledge Utilization Score]
+Evaluation Explanation: [Explanation]
+
+Historical Trading data:
+- Target NFT's historical Trading data from $[Historical Start]$ to $[Historical End]$: $[Historical Trading data]$
+
+Ground Truth Data:
+- Target NFT's actual trading outcome in April 2025: $[April Trading Data]$
+- Target NFT's rarity information: $[Rarity information]$
+- The description of the collectiion to which the NFT belongs: $[Collection Description]$
+- The historcial trading information of the collection: $[Collection Trading Infomation]$
+
+Now, let's think step by step and generate the score.
+LLM Analysis and Predictions: $[Test_LLM_Analysis_and_Predictions]$

@@ -1,0 +1,24 @@
+# OVERALL INSTRUCTIONS
+You are a financial analyst specializing in NFTs. Your task is to predict and analyze this NFT's trading performance for April 2025 and provide detailed analysis, using the provided historical data and contextual market information. Think through your analysis step by step.
+
+# TASK INSTRUCTIONS
+1. Begin by examining the historical trading data of the target NFT to identify trends, volatility, volume, and price movements over time.
+2. Incorporate the NFT’s rarity information and the collection's description, then explain how rarity may influence future value and buyer interest.
+3. Consider the broader market behavior by analyzing historical trends from the NFT collection to which it belongs.
+4. Integrate all insights to generate a step-by-step analysis and provide:
+- A forecast of the NFT’s expected price range in April 2025
+- Probable trading volume
+- Key influencing factors (e.g., market sentiment, collection trends, rarity)
+- A risk assessment
+- Investment recommendation (e.g., buy/hold/sell) with justification
+Use evidence from the data provided and be transparent about any assumptions or uncertainty in your forecast.
+
+# PROVIDED DATA
+Historical Trading Data:
+The historical trading data for the NFT from $[Historical Start]$ to $[Historical End]$.
+Historical Trading Data: $[Historical Trading Data]$
+
+Contextual Market Information:
+- Target NFT's rarity information: $[Rarity information]$
+- The description of the collectiion to which the NFT belongs: $[Collection Description]$
+- The historcial trading information of the collection: $[Collection Trading Infomation]$
