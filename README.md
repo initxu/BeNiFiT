@@ -36,51 +36,51 @@ This project need four API keys: OpenSea key, OpenAI key, Anthropic key and Goog
 
 ### 3. Prepare datasets
 #### get information of nfts by collection
-1. get_nfts_by_collection.ipynb 
-    data/{collection_slug}/raw_response_data.json
-    data/{collection_slug}/nfts_by_collection_data.json
-2.  json_rearrange.ipynb
-    data/{collection_slug}/nfts_by_collection_data_sorted.json
-3.  get_nft_trait.ipynb
-    data/{collection_slug}/nfts_traits_data_sorted.json
-    data/{collection_slug}/images/
-4. get_collection_traits.ipynb
-    data/{collection_slug}/collection_data.json
-    data/{collection_slug}/collection_traits_data.json
-    data/{collection_slug}/collection_status_data.json
+- 1. get_nfts_by_collection.ipynb 
+    - data/{collection_slug}/raw_response_data.json
+    - data/{collection_slug}/nfts_by_collection_data.json
+- 2. json_rearrange.ipynb
+    - data/{collection_slug}/nfts_by_collection_data_sorted.json
+- 3. get_nft_trait.ipynb
+    - data/{collection_slug}/nfts_traits_data_sorted.json
+    - data/{collection_slug}/images/
+- 4. get_collection_traits.ipynb
+    - data/{collection_slug}/collection_data.json
+    - data/{collection_slug}/collection_traits_data.json
+    - data/{collection_slug}/collection_status_data.json
 
-5.  get_nft_event.ipynb
-    data/{collection_slug}/sale_events/
-6.  get_collection_event.ipynb
-    data/{collection_slug}/collection_sale_events
+- 5. get_nft_event.ipynb
+    - data/{collection_slug}/sale_events/
+- 6. get_collection_event.ipynb
+    - data/{collection_slug}/collection_sale_events
 
 
 #### check information
-1. use "identifier" to check
-    data/{collection_slug}/raw_response_data.json
-    data/{collection_slug}/nfts_by_collection_data.json
-    data/{collection_slug}/nfts_by_collection_data_sorted.json
-    data/{collection_slug}/nfts_traits_data_sorted.json
+- 1. use "identifier" to check
+    - data/{collection_slug}/raw_response_data.json
+    - data/{collection_slug}/nfts_by_collection_data.json
+    - data/{collection_slug}/nfts_by_collection_data_sorted.json
+    - data/{collection_slug}/nfts_traits_data_sorted.json
 
-2. use data_check.ipynb to check
-    data/{collection_slug}/images/
-    data/{collection_slug}/sale_events/
+- 2. use data_check.ipynb to check
+    - data/{collection_slug}/images/
+    - data/{collection_slug}/sale_events/
 
 #### make dataset
-data_dataframe_maker.ipynb
-    data/{collection_slug}/collection_event_data.csv: records of sale events
-    data/{collection_slug}/collection_event_nft_stats.csv: stats of records, groupy by identifier
-    data/{collection_slug}/nfts_traits_data_sorted.csv: nft traits
-    data/{collection_slug}/nfts_traits_event_data_sorted.csv: nft traits and total sale event numbber
+- data_dataframe_maker.ipynb
+    - data/{collection_slug}/collection_event_data.csv: records of sale events
+    - data/{collection_slug}/collection_event_nft_stats.csv: stats of records, groupy by identifier
+    - data/{collection_slug}/nfts_traits_data_sorted.csv: nft traits
+    - data/{collection_slug}/nfts_traits_event_data_sorted.csv: nft traits and total sale event numbber
 
-data_collection_analysis.ipynb
-    data/{collection_slug}/collection_event_data_date.csv: group all sale events by date
+- data_collection_analysis.ipynb
+    - data/{collection_slug}/collection_event_data_date.csv: group all sale events by date
 
-dataset_maker.ipynb
-    data/{collection_slug}/dataset/*.csv
+- dataset_maker.ipynb
+    - data/{collection_slug}/dataset/*.csv
 
-evaluation/collection_trading_analysis.py
-    data/{collection_slug}/dataset/*.json
+- evaluation/collection_trading_analysis.py
+    - data/{collection_slug}/dataset/*.json
 
 
 
